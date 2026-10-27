@@ -1,0 +1,5 @@
+{
+  "name": "mod-claude-vigilante",
+  "owner": { "name": "jask05" },
+  "plugins": [{ "name": "vigilante", "source": "./" }]
+}

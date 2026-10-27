@@ -1,0 +1,6 @@
+{
+  "name": "vigilante",
+  "version": "0.1.0",
+  "description": "Avisa de subagentes atascados, detecta procesos de Codex huérfanos y limpia scratchpads/worktrees abandonados",
+  "types": "./types/index.d.ts"
+}
